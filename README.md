@@ -3,12 +3,12 @@
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
- Root:      7 
-          /   \
-         5     8  
-        / \     \
-       1   6     9
-      / \  
-     0   3
-        / \
-       2   4
+  Root:     7
+          /  \
+         5    8
+        / \    \
+       1   6    9
+      /  \
+     0    3
+         / \
+        2   4
